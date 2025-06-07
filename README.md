@@ -1,12 +1,6 @@
-## 📌 Project Overview
-
-This project uses Z-score to detect anomalies in Bitcoin's closing price data using Python.
+# 📊 BTC Price Anomaly Detection Using Z-Score
 
 ![Anomaly Detection Chart](./btc_anomaly_chart.jpg)
-
----
-
-# 📊 BTC Price Anomaly Detection Using Z-Score
 
 This project demonstrates a simple statistical approach to detect anomalies in Bitcoin (BTC) closing prices using the **Z-score** method. The analysis is performed in Python with `pandas`, `NumPy`, and `matplotlib`, and visualizes the abnormal price movements based on statistical thresholds.
 
