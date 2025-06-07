@@ -2,7 +2,7 @@
 
 This project uses Z-score to detect anomalies in Bitcoin's closing price data using Python.
 
-![Anomaly Detection Chart](./btc_anomaly_chart.png)
+![Anomaly Detection Chart](./btc_anomaly_chart.jpg)
 
 ---
 
